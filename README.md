@@ -1,11 +1,8 @@
 # Hello, I'm Jan Carlo Surig
 
-[Brief Introduction - Remove this afterwards]
-
 I am a Computer Science student with a strong passion for technology, software development, and problem-solving. Through my academic projects and continuous learning, I have developed skills in programming, database management, and system development. I am eager to apply my knowledge in a professional environment, gain hands-on industry experience, and contribute effectively to organizational projects while continuously expanding my technical and professional skills.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Seeking a position where I can utilize my programming and problem-solving skills to assist in software development projects while learning industry best practices and enhancing my technical expertise. 
 
