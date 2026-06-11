@@ -2,12 +2,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Computer Science student with a strong passion for technology, software development, and problem-solving. Through my academic projects and continuous learning, I have developed skills in programming, database management, and system development. I am eager to apply my knowledge in a professional environment, gain hands-on industry experience, and contribute effectively to organizational projects while continuously expanding my technical and professional skills.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seeking a position where I can utilize my programming and problem-solving skills to assist in software development projects while learning industry best practices and enhancing my technical expertise. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
